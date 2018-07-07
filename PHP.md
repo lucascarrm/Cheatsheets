@@ -81,7 +81,7 @@ Manejate con la Tabla de contenidos  o apretra **CTRL+F**
     - [Poner middleware con metodo de clase](#poner-middleware-con-metodo-de-clase)
     - [Poner varios middlewares](#poner-varios-middlewares)
 
-## <img src="./img/flame.png" width="20"> Cosas importantes
+## <img src="https://image.flaticon.com/icons/svg/426/426833.svg" width="20"> Cosas importantes
 
 #### Mostrar algo en la pag con php
 ```
@@ -126,7 +126,7 @@ explode('-',"Hola-Lucas") // ['Hola','Lucas']
 ```
 
 
-## <img src="./img/flame.png" width="20"> Clases Normales
+## <img src="https://image.flaticon.com/icons/svg/426/426833.svg" width="20"> Clases Normales
 
 #### Definir una clase
 
@@ -176,7 +176,7 @@ public function RetornaAlgo(){
 }
 ```
 
-## <img src="./img/flame.png" width="20"> Clases Abstractas
+## <img src="https://image.flaticon.com/icons/svg/426/426833.svg" width="20"> Clases Abstractas
 
 #### Definir clase abstracta
 ``` 
@@ -187,7 +187,7 @@ abstract class ClaseAbstracta{
 }
 ```
 
-## <img src="./img/flame.png" width="20"> Interfaces
+## <img src="https://image.flaticon.com/icons/svg/426/426833.svg" width="20"> Interfaces
 
 #### Definir interfaz
 ``` 
@@ -201,14 +201,14 @@ interface IVendible{
 class Clase implements Interfaz{}
 ```
 
-## <img src="./img/flame.png" width="20"> Herencia
+## <img src="https://image.flaticon.com/icons/svg/426/426833.svg" width="20"> Herencia
 
 #### Implementar herencia
 ```
 class Clase extends Hijo{}
 ```
 
-## <img src="./img/flame.png" width="20"> Arrays
+## <img src="https://image.flaticon.com/icons/svg/426/426833.svg" width="20"> Arrays
 
 #### Crear array indexados sin clave
 ```
@@ -261,7 +261,7 @@ count($array) // Devuelve el ultimo indice + 1
 array_search($elemento,$array); //  Devuelve true o false
 ```
 
-## <img src="./img/flame.png" width="20"> Archivos
+## <img src="https://image.flaticon.com/icons/svg/426/426833.svg" width="20"> Archivos
 
 #### Info de un archivo
 ```
@@ -311,7 +311,7 @@ rename("/img/lolis.txt", "/script/nosonlolis.txt");
 move_uploaded_file($_FILES['foto']['tmp_name'], $path);
 ```
 
-## <img src="./img/flame.png" width="20"> PDO
+## <img src="https://image.flaticon.com/icons/svg/426/426833.svg" width="20"> PDO
 
 #### Crear objeto de la DB
 ```              
@@ -366,7 +366,7 @@ $sql->execute();
   $result2->nombre;
 ```
 
-## <img src="./img/flame.png" width="20"> REST API
+## <img src="https://image.flaticon.com/icons/svg/426/426833.svg" width="20"> REST API
 
 #### Acceder a los parametros de la api
 ```
@@ -419,7 +419,7 @@ $sql->execute();
    $request->getMethod();
 ```
 
-## <img src="./img/flame.png" width="20"> JWT
+## <img src="https://image.flaticon.com/icons/svg/426/426833.svg" width="20"> JWT
 
 #### Crear JWT
 ```
@@ -456,7 +456,7 @@ $sql->execute();
         $jwtDecode->clave; 
 ```
 
-## <img src="./img/flame.png" width="20"> Middlewares 
+## <img src="https://image.flaticon.com/icons/svg/426/426833.svg" width="20"> Middlewares 
 
 #### Pasar de middleware a proxima funcion
 ```
