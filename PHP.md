@@ -1,4 +1,7 @@
+<center>
+
 # ❤️ PHP CHEATSHEET ❤️
+</center>
 
 ## Modelos de parcial que te pueden servir
  [Modelo parc 2 TOTO](https://github.com/tomasmattia/proyecto.aprobar.lab/tree/master/proyecto.aprobar.prog/backend.1) 👅👄💧
@@ -8,7 +11,12 @@
  [Parcial 2 REAL + PDFs](https://github.com/lucascarrm/Program-y-lab3/tree/master/ProgramacionBackEnd/ParcialesFinales/Parc_2)
 
  ⚡️ Manejate con la Tabla de contenidos  o apretra **CTRL+F** ⚡️
+
+ <center>
+ 
 # Tabla de contenidos
+</center>
+
 - [<img src="https://image.flaticon.com/icons/svg/426/426833.svg" width="20"> Cosas importantes](#img-src%22httpsimageflaticoncomiconssvg426426833svg%22-width%2220%22-cosas-importantes)
     - [Mostrar algo en la pag con php](#mostrar-algo-en-la-pag-con-php)
     - [Concatenar strings](#concatenar-strings)
