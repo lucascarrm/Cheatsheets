@@ -81,7 +81,7 @@ Manejate con la Tabla de contenidos  o apretra **CTRL+F**
     - [Poner middleware con metodo de clase](#poner-middleware-con-metodo-de-clase)
     - [Poner varios middlewares](#poner-varios-middlewares)
 
-## ![alt text](./img/flame.png =250x250) Cosas importantes
+## <img src="./img/flame.png" width="20"> Cosas importantes
 
 #### Mostrar algo en la pag con php
 ```
@@ -126,7 +126,7 @@ explode('-',"Hola-Lucas") // ['Hola','Lucas']
 ```
 
 
-## Clases Normales
+## <img src="./img/flame.png" width="20"> Clases Normales
 
 #### Definir una clase
 
@@ -176,7 +176,7 @@ public function RetornaAlgo(){
 }
 ```
 
-## Clases Abstractas
+## <img src="./img/flame.png" width="20"> Clases Abstractas
 
 #### Definir clase abstracta
 ``` 
@@ -187,7 +187,7 @@ abstract class ClaseAbstracta{
 }
 ```
 
-## Interfaces
+## <img src="./img/flame.png" width="20"> Interfaces
 
 #### Definir interfaz
 ``` 
@@ -201,14 +201,14 @@ interface IVendible{
 class Clase implements Interfaz{}
 ```
 
-## Herencia
+## <img src="./img/flame.png" width="20"> Herencia
 
 #### Implementar herencia
 ```
 class Clase extends Hijo{}
 ```
 
-## Arrays
+## <img src="./img/flame.png" width="20"> Arrays
 
 #### Crear array indexados sin clave
 ```
@@ -261,7 +261,7 @@ count($array) // Devuelve el ultimo indice + 1
 array_search($elemento,$array); //  Devuelve true o false
 ```
 
-## Archivos
+## <img src="./img/flame.png" width="20"> Archivos
 
 #### Info de un archivo
 ```
@@ -311,7 +311,7 @@ rename("/img/lolis.txt", "/script/nosonlolis.txt");
 move_uploaded_file($_FILES['foto']['tmp_name'], $path);
 ```
 
-## PDO
+## <img src="./img/flame.png" width="20"> PDO
 
 #### Crear objeto de la DB
 ```              
@@ -366,7 +366,7 @@ $sql->execute();
   $result2->nombre;
 ```
 
-## REST API
+## <img src="./img/flame.png" width="20"> REST API
 
 #### Acceder a los parametros de la api
 ```
@@ -419,7 +419,7 @@ $sql->execute();
    $request->getMethod();
 ```
 
-## JWT
+## <img src="./img/flame.png" width="20"> JWT
 
 #### Crear JWT
 ```
@@ -456,7 +456,7 @@ $sql->execute();
         $jwtDecode->clave; 
 ```
 
-## Middlewares 
+## <img src="./img/flame.png" width="20"> Middlewares 
 
 #### Pasar de middleware a proxima funcion
 ```
