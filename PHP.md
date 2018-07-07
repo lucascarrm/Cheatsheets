@@ -81,7 +81,7 @@ Manejate con la Tabla de contenidos  o apretra **CTRL+F**
     - [Poner middleware con metodo de clase](#poner-middleware-con-metodo-de-clase)
     - [Poner varios middlewares](#poner-varios-middlewares)
 
-## Cosas importantes
+## ![alt text](./img/flame.png =250x250) Cosas importantes
 
 #### Mostrar algo en la pag con php
 ```
