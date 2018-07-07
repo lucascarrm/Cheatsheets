@@ -1,13 +1,13 @@
-# PHP CHEATSHEET
+# ❤️ PHP CHEATSHEET ❤️
 
 ## Modelos de parcial que te pueden servir
- [Modelo parc 2 TOTO](https://github.com/tomasmattia/proyecto.aprobar.lab/tree/master/proyecto.aprobar.prog/backend.1)
+ [Modelo parc 2 TOTO](https://github.com/tomasmattia/proyecto.aprobar.lab/tree/master/proyecto.aprobar.prog/backend.1) 👅👄💧
 
  [Modelo parc 2 Lucas](https://github.com/lucascarrm/Program-y-lab3/tree/master/ProgramacionBackEnd/ParcialesFinales/Modelo_Parc_2)
 
  [Parcial 2 REAL + PDFs](https://github.com/lucascarrm/Program-y-lab3/tree/master/ProgramacionBackEnd/ParcialesFinales/Parc_2)
 
-Manejate con la Tabla de contenidos  o apretra **CTRL+F**
+ ⚡️ Manejate con la Tabla de contenidos  o apretra **CTRL+F** ⚡️
 # Tabla de contenidos
 - [Cosas importantes](#cosas-importantes)
     - [Mostrar algo en la pag con php](#mostrar-algo-en-la-pag-con-php)
