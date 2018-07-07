@@ -1,12 +1,17 @@
 # PHP CHEATSHEET
 
+Manejate con la Tabla de contenidos  o apretra **CTRL+F**
 # Tabla de contenidos
 - [Tabla de contenidos](#tabla-de-contenidos)
     - [Cosas importantes](#cosas-importantes)
+        - [Mostrar algo en la pag con php](#mostrar-algo-en-la-pag-con-php)
         - [Concatenar strings](#concatenar-strings)
         - [Foreach](#foreach)
         - [Hacer referencia a un archivo](#hacer-referencia-a-un-archivo)
         - [Saber si un elemento de un array existe](#saber-si-un-elemento-de-un-array-existe)
+        - [La puta hora](#la-puta-hora)
+        - [Eliminar de un string espacios](#eliminar-de-un-string-espacios)
+        - [Cortar un string a un array eliminando el/los caracteres que queremos](#cortar-un-string-a-un-array-eliminando-ellos-caracteres-que-queremos)
     - [Clases Normales](#clases-normales)
         - [Definir una clase](#definir-una-clase)
         - [Visibilidad](#visibilidad)
@@ -32,6 +37,15 @@
         - [Añadir elementos al array](#a%C3%B1adir-elementos-al-array)
         - [Eliminar elementos del array](#eliminar-elementos-del-array)
         - [Cuantos elementos tiene el array](#cuantos-elementos-tiene-el-array)
+        - [Buscar elementos en array](#buscar-elementos-en-array)
+    - [Archivos](#archivos)
+        - [Abrir archivo](#abrir-archivo)
+        - [Cerrar archivo](#cerrar-archivo)
+        - [Escribir en archivo (Modo lectura w , a)](#escribir-en-archivo-modo-lectura-w--a)
+        - [Leer de archivo linea por linea (Modo lectura r)](#leer-de-archivo-linea-por-linea-modo-lectura-r)
+        - [Ripear un archivo (eliminarlo hehe)](#ripear-un-archivo-eliminarlo-hehe)
+        - [Mover un archivo y renombrarlo si es lo que se busca (lo mas rompehuevos del mundo)](#mover-un-archivo-y-renombrarlo-si-es-lo-que-se-busca-lo-mas-rompehuevos-del-mundo)
+            - [Mover un archivo subido desde el cliente](#mover-un-archivo-subido-desde-el-cliente)
 
 ## Cosas importantes
 

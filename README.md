@@ -14,7 +14,7 @@ Te traigo los mejores cheatsheets para cada lenguaje con todo lo que se uso en l
 
 Lenguaje | Link
 ------------ | -------------
-PHP | [Todavia en beta](#)
+PHP | [Link funcionando](https://github.com/lucascarrm/Cheatsheets/blob/master/PHP.md)
 Typescript | [Todavia en beta](#)
 
 
