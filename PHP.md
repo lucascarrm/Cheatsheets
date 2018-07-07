@@ -378,16 +378,15 @@ $sql->execute();
    return $response->withJson(['clave' => 'valor'],200);
 ```
 
-#### Ruta opcional
+#### Ruteo con params
 ```
    $app->get('/ruteo/{param}', function (Request $request, Response $response, $args) {
         $params = $args['param'];
 });
 ```
-#### Ruteo con params
+#### Ruta opcional
 ```
    Se pone con '[/]' ejemplo de otras  rutas /entrar[/]
-});
 ```
 
 #### Mapeo de verbos para ruta
