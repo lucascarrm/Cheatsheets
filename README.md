@@ -15,9 +15,9 @@ Te traigo los mejores cheatsheets para cada lenguaje con todo lo que se uso en l
 Lenguaje | Link
 ------------ | -------------
 PHP | [Link funcionando](https://github.com/lucascarrm/Cheatsheets/blob/master/PHP.md)
-Typescript | [Todavia en beta](#)
+Typescript | [Todavia en alpha](#)
 
 
 
-### Como dijo una vez Neiner:    
+### Cosas que nos dejo Neiner :    
 > La herencia es como Maradona, no reconoce a sus hijos.
