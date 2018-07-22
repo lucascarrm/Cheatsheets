@@ -8,7 +8,7 @@
 
  [Modelo parc 2 Lucas](https://github.com/lucascarrm/Program-y-lab3/tree/master/ProgramacionBackEnd/ParcialesFinales/Modelo_Parc_2)
 
- [Parcial 2 REAL + PDFs](https://github.com/lucascarrm/Program-y-lab3/tree/master/ProgramacionBackEnd/ParcialesFinales/Parc_2)
+ [Contenido para final + DB](https://github.com/lucascarrm/Program-y-lab3/tree/master/ProgramacionBackEnd/ParcialesFinales/Parc_2)
 
  ⚡️ Manejate con la Tabla de contenidos  o apretra **CTRL+F** ⚡️
 
